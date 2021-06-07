@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/activation.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/All-MB.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/bpmutil.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/ci.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/collaboration.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/configservice-api.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/configservice-impl.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/dfc.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/DmcRecords.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/dms-client-api.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/jcifs-krb5-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/krbutil.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/log4j-1.2-api-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/log4j-api-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/log4j-core-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/messageArchive.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/messageService.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/questFixForJDK7.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/subscription.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/vsj-license.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/vsj-standard-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/workflow.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/xtrim-api.jar"/>
+	<classpathentry kind="lib" path="C:/test/dfc_20.4_win/dfcWin/Shared/xtrim-server.jar"/>
+	<classpathentry kind="lib" path="C:/test/jar_files/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/test/jar_files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/test/jar_files/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/test/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/test/jar_files/commons-text-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/test/jar_files/opencsv-4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
